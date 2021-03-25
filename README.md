@@ -4,6 +4,11 @@ lncRNA-protein interaction prediction method: LPI-DLDN
 # Data
 Data is available at [NONCODE](http://www.noncode.org/), [NPInter](http://bigdata.ibp.ac.cn/npinter3/index.htm), and [PlncRNADB](http://bis.zju.edu.cn/PlncRNADB/).
 
+# Feature selection
+LncRNA feature: [PyFeat](https://github.com/mrzResearchArena/PyFeat)
+
+Protein feature: [Biotriangle](http://biotriangle.scbdd.com/protein/index/)
+
 # Environment
 * python-3.7.9
 * numpy-1.19.2
