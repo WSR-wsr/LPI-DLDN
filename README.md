@@ -7,9 +7,9 @@ Data is available at [NONCODE](http://www.noncode.org/), [NPInter](http://bigdat
 # Usage
 
 To run the model, default 5 fold cross validation
-'''
+```
 python LPI-DLDN.py
-'''
+```
 
 # Environment
 * python-3.7.9
